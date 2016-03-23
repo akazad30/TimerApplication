@@ -1,0 +1,9 @@
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\bin\Debug\StartStopResetTimer.exe
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\bin\Debug\StartStopResetTimer.pdb
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\StartStopResetTimer.Form1.resources
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\StartStopResetTimer.Properties.Resources.resources
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\StartStopResetTimer.exe
+F:\StudentImage\StartStopResetTimer\StartStopResetTimer\obj\x86\Debug\StartStopResetTimer.pdb
